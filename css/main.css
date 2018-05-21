@@ -88,7 +88,7 @@ header span {
 #about h2 {font-size: 30px; padding: 10px 0 0 50px;}
 
 /***** CONTACT *****/
-#contact .full-width {margin: 60px 100px;}
+#contact .full-width {margin: 60px 80px;}
 #contact .half-width {background-color: #f6ae2d; height: 350px; padding: 60px 0 0 0;}
 #contact p {margin: 20px 0 0 130px;}
 #contact p #like {font-size: 40px;}
