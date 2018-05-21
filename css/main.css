@@ -1,10 +1,9 @@
 /***** BASE STYLES *****/
 
-body {
-    font-family: 'Montserrat', sans-serif;}
+body {font-family: 'Montserrat', sans-serif;}
 h2 {font-family: 'Hind', sans-serif;}
 header {height: 508px;}
-#work {height: 780px;}
+#work {height: 700px;}
 #about {height: 440px;}
 #contact {height: 520px;}
 footer {height: 200px;}
@@ -68,12 +67,20 @@ header span {
 }
 
 /***** WORK *****/
-#work {padding: 80px;}
-#work h2 .austen {background-color: #d36b69; font-size: 30px;}
-#work h2 .rogue {background-color: #33d3d6; font-size: 30px;}
-#work h2 .holstee {background-color: #f6ae2d; font-size: 30px;}
-#work h2 {padding: 30px 0 0 80px;}
-#work p {width: 275px; padding: 0 0 0 80px; font-size: 19px;}
+#work {padding: 120px 0 20px 55px;}
+#work img {margin: -40px 0 0 0;}
+#work h2 .austen {background-color: #d36b69; font-size: 32px; margin: 30px 0 0 80px;}
+#work h2 .rogue {background-color: #33d3d6; font-size: 32px; margin: 30px 0 0 112px;}
+#work h2 .holstee {background-color: #f6ae2d; font-size: 32px; margin: 50px 0 0 115px;}
+#work p {width: 275px; padding: 0 0 0 80px; font-size: 20px;}
 #work .left {text-align: left;}
 #work .right {text-align: right;}
 #work .center {text-align: center;}
+
+/***** ABOUT *****/
+
+#about {background-color: #d36b69;}
+#about .half-width {margin: 40px 0 0 0;}
+#about img {margin-left: 175px;}
+#about p {color: white; font-size: 18px; padding: 0 0 0 50px;}
+#about h2 {color: white; font-size: 30px; padding: 10px 0 0 50px;}
