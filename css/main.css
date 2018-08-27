@@ -92,13 +92,7 @@ header span {
 #contact p #hit {font-size: 58px; line-height: 60px;}
 #contact p #hello {font-size: 25px; line-height: 40px; margin-left: 4px;}
 #contact form {margin-left: 100px;}
-<<<<<<< HEAD
-#contact form #name {width: 314px; margin-bottom: 5px;}
-#contact form #email {width: 314px; margin-bottom: 5px;}
-#contact form #message {width: 314px; height: 200px; margin-bottom: 5px;}
-=======
 #contact .form-element {width: 314px; margin-bottom: 5px;}
->>>>>>> coding
 #contact form #submit {width: 320px; margin-bottom: 5px; background-color:#33d3d6;}
 
 /***** FOOTER *****/
@@ -111,3 +105,4 @@ footer ul {margin-top: 60px; text-align: center;}
 footer ul li {display: inline-block;}
 footer ul li a {text-decoration: none; text-align: center; padding-right: 20px;}
 footer p {text-align: center; padding: 25px 0 0 20px;}
+footer img {width: 40px;}
